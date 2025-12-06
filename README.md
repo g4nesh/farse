@@ -1,2 +1,6 @@
-# farse
-Building SOTA low latency systems for agentic automations. More coming soon... 
+# farse 🖥️
+Building SOTA low latency systems for agentic automations. 
+
+Learn more at [luxenai.org](https://luxenai.org). 
+
+
